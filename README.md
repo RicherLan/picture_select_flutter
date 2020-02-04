@@ -31,7 +31,7 @@ dependencies:
   multi_image_picker: ^4.6.1
 
 Android    添加权限
-*  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+*  \<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 *  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 *  <uses-permission android:name="android.permission.CAMERA" />
 
