@@ -32,12 +32,12 @@ dependencies:
 
 Android    添加权限
 *  \<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-*  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-*  <uses-permission android:name="android.permission.CAMERA" />
+*  \<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+*  \<uses-permission android:name="android.permission.CAMERA" />
 
 IOS           添加权限
-*  <key>NSPhotoLibraryUsageDescription</key>
-*  <string>Example usage description</string>
-*  <key>NSCameraUsageDescription</key>
-*  <string>Example usage description</string>
+*  \<key>NSPhotoLibraryUsageDescription</key>
+*  \<string>Example usage description</string>
+*  \<key>NSCameraUsageDescription</key>
+*  \<string>Example usage description</string>
 
