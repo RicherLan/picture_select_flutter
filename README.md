@@ -3,12 +3,13 @@
 # picture_select_flutter
 
 九宫格多张图片选择器，图片可拖拉拽，拖拉拽可调顺序。
+# 整体运行动图如下
 ![demo.gif](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/run.gif)
 
-# 效果图
-|![1.gif](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/1.gif)| ![2.gif](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/2.gif) | ![3.gif](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/3.gif)|
+# 部分运行截图如下
+|![1.jpg](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/1.jpg)| ![2.jpg](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/2.jpg) | ![3.jpg](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/3.jpg)|
 | --- | --- | --- |
-| ![4.gif](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/4.gif) | ![5.gif](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/5.gif) | ![6.gif](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/6.gif) |
+| ![4.jpg](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/4.jpg) | ![5.jpg](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/5.jpg) | ![6.jpg](https://github.com/qiuxiaochi/picture_select_flutter/blob/master/assets/git/6.jpg) |
 
 
 # 特性
@@ -36,8 +37,8 @@ Android    添加权限
 *  \<uses-permission android:name="android.permission.CAMERA" />
 
 IOS           添加权限
-*  \<key>NSPhotoLibraryUsageDescription</key>
-*  \<string>Example usage description</string>
-*  \<key>NSCameraUsageDescription</key>
-*  \<string>Example usage description</string>
+*  \<key>NSPhotoLibraryUsageDescription\</key>
+*  \<string>Example usage description\</string>
+*  \<key>NSCameraUsageDescription\</key>
+*  \<string>Example usage description\</string>
 
